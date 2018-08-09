@@ -6,3 +6,5 @@ Each batch contains several quality controls (QCs) and the bad QCs have been ide
 This shiny app explores the question: are there batches with higher or lower number of bad QCs compared to the whole lot.
 Both the Graph and the top Table are responsive along with the user controls on the left side.
 
+All of the data in this public database are not real as they are only for demonstration purposes. The real data is part of the [CHRIS study](https://de.chris.eurac.edu/) and access to it is governed by the [CHRIS study regulations](http://www.eurac.edu/en/research/health/biomed/projects/Pages/default.aspx).
+
